@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Formulaire</string>
+    <string name="label_nom">Nom</string>
+    <string name="label_prenom">Prénom</string>
+    <string name="label_age">Âge</string>
+    <string name="label_domaine">Domaine de compétences</string>
+    <string name="label_telephone">Numéro de téléphone</string>
+    <string name="btn_valider">Valider</string>
+    <string name="btn_change">ENG 🇺🇸</string>
+    <string name="error_empty_fields">Veuillez remplir tous les champs</string>
+    <string name="welcome_msg">Bienvenue ! Veuillez remplir le formulaire ci-dessous 😊.</string>
+    <string name="success_message">Informations validées :</string>
+    <string name="confirm">Confirmer</string>
+    <string name="cancel">Annuler</string>
+    <string name="change_color">Changer couleur</string>
+    <string name="validation_cancelled">Validation annulée</string>
+    <string name="activity_second_title">Informations saisies</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_back">Retour</string>
+    <string name="display_phone_number">Numéro de téléphone:</string>
+    <string name="btn_call">Appeler</string>
+    <string name="dialog_title">Récapitulatif :</string>
+    <string name="confirm_prompt">Voulez vous confirmer ? :</string>
+    <string name="confirm_call">Effectuer un appel</string>
+    <string name="no_phone_number">Pas de numéro de téléphone</string>
+    <string name="call_message">numéro</string>
+    <string name="call">appel</string>
+
+
+
+
+
+
+
+
+
+
+</resources>

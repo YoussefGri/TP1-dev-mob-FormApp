@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="label_nom">Last Name</string>
+    <string name="label_prenom">First Name</string>
+    <string name="label_age">Age</string>
+    <string name="label_domaine">Skills</string>
+    <string name="label_telephone">Phone Number</string>
+    <string name="btn_valider">Submit</string>
+    <string name="btn_change">FR 🇫🇷</string>
+    <string name="welcome_msg">Welcome ! Please fill the form below 😊.</string>
+    <string name="error_empty_fields">Please fill in all fields</string>
+    <string name="success_message">Validated information:</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_color">Change Color</string>
+    <string name="validation_cancelled">Validation cancelled</string>
+    <string name="activity_second_title">Entered Information</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_back">Back</string>
+    <string name="display_phone_number">Phone Number:</string>
+    <string name="btn_call">Call</string>
+    <string name="dialog_title">Recap:</string>
+    <string name="confirm_prompt">Do you want to confirm ? :</string>
+    <string name="confirm_call">Make a call</string>
+    <string name="no_phone_number">No phone number</string>
+    <string name="call_message">Phone number</string>
+    <string name="call">call</string>
+
+
+
+
+</resources>
