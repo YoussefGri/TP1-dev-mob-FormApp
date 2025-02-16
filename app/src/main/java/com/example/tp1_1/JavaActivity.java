@@ -75,11 +75,11 @@ public class JavaActivity extends AppCompatActivity {
         String telephone = etTelephone.getText().toString().trim();
 
         if (nom.isEmpty() || prenom.isEmpty() || age.isEmpty() || domaine.isEmpty() || telephone.isEmpty()) {
-            Toast.makeText(this, "Veuillez remplir tous les champs", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, getString(R.string.error_empty_fields), Toast.LENGTH_SHORT).show();
             return;
         }
 
-        String message = R.string.label_nom + nom + "\n" +
+        String message = getString(R.string.label_nom) + nom + "\n" +
                 getString(R.string.label_prenom) + prenom + "\n" +
                 getString(R.string.label_age) + age + "\n" +
                 getString(R.string.label_domaine) + domaine + "\n" +

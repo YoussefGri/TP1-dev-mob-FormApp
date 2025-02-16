@@ -58,9 +58,7 @@ public class SecondActivity extends Activity {
         btnRetour.setOnClickListener(v -> finish());
     }
 
-    /**
-     * Affiche un dialogue stylisé demandant à l'utilisateur de confirmer l'appel.
-     */
+    //Affiche un dialogue stylisé demandant à l'utilisateur de confirmer l'appel.
     private void afficherDialogAppel() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this, R.style.CustomDialog);
 
