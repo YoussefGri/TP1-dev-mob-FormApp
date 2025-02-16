@@ -11,6 +11,10 @@ import android.widget.TextView;
 
 public class ThirdActivity extends Activity {
 
+    /**
+     * Cette activité a été abandonnée car pas utile, elle a été remplacée par une fenêtre de dialogue
+     */
+
     private TextView tvPhoneNumber;
     private Button btnCall;
     private String phoneNumber;
